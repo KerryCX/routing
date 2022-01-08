@@ -1,0 +1,10 @@
+.homepage-body{
+    background-color: #334b05;
+    min-height: 100vh;
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: #d6ecd8;
+}

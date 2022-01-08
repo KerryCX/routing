@@ -1,0 +1,10 @@
+.contacts-body{
+    background-color: #da30f5;
+    min-height: 100vh;
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: #ccc0cc;
+}

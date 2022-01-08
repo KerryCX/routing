@@ -1,0 +1,11 @@
+.projects-body{
+    background-color: #4e12d7;
+    min-height: 100vh;
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: #c3c7da;
+}
+
